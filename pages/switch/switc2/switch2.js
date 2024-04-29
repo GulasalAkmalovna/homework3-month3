@@ -1,4 +1,4 @@
-let score = ("Olgan ballingizni kiriting");
+let score = +prompt("Olgan ballingizni kiriting");
 
 switch (score) {
     case 1:

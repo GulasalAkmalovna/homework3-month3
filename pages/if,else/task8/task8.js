@@ -1,7 +1,7 @@
-let a = (" a sonini kiriting");
-let b = (" b sonini kiriting");
-let c = (" c sonini kiriting");
-let d = (" d sonini kiriting");
+let a = +prompt(" a sonini kiriting");
+let b = +prompt(" b sonini kiriting");
+let c = +prompt(" c sonini kiriting");
+let d = +prompt(" d sonini kiriting");
 
 if (a > 0 && b > 0 && c > 0 && d > 0) {
     document.write("Berilgan barcha sonlar musbat");
